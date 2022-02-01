@@ -36,4 +36,3 @@ function App() {
 }
 
 export default App;
-// min 52 video
